@@ -37,7 +37,7 @@ The epidemic peak is estimated to be around September 2020 with approximately 45
 ## Discussion
 The study highlights the importance of interventions like lockdown to delay the epidemic peak. Continuous monitoring and extended interventions are recommended to control the spread of COVID-19.
 
-![Comparison of Predicted Infected Cases](path/to/comparison_of_predicted_infected_cases.png)
+![Comparison of Predicted Infected Cases](comp.png)
 
 ## Acknowledgement
 Supported by Polish National Science Centre and Wrocław University of Science and Technology statutory funds.
