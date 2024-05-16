@@ -19,10 +19,10 @@ COVID-19 originated in Wuhan, China, in December 2019 and rapidly spread worldwi
 ## Methods
 ### SEIR Model
 Used to predict the epidemic peak.
-![SEIR Model State Diagram](path/to/seir_model_state_diagram.png)
+![SEIR Model State Diagram](SEIR.png)
 ### Polynomial Regression
 Applied to estimate the infection rate (β).
-
+![Regression Model](model.png)
 ### Parameters
 - Infection rate (β): 0.33 (95% CI, 0.31-0.35)
 - Basic reproduction number (R0): 3.3 (95% CI, 3.1-3.5)
@@ -32,7 +32,7 @@ Applied to estimate the infection rate (β).
 ## Results
 The epidemic peak is estimated to be around September 2020 with approximately 450,000 cases. Lockdown measures significantly delay the epidemic peak, allowing the healthcare system to prepare and manage the situation better.
 
-![Peak predicted without intervention](path/to/comparison_of_predicted_infected_cases.png)
+![Peak predicted without intervention](Estimated.png)
 
 ## Discussion
 The study highlights the importance of interventions like lockdown to delay the epidemic peak. Continuous monitoring and extended interventions are recommended to control the spread of COVID-19.
